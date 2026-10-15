@@ -20,3 +20,6 @@ footer{text-align:center;padding:1rem;font-size:.8rem;color:var(--mut)}
 
 .map-link{display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:44px;padding:.25rem .5rem;vertical-align:middle}
 .mark{flex-shrink:0}
+
+.price a,.price .soon{display:inline-flex;align-items:center;min-height:44px;padding:0 4px}
+.price .soon{color:#5c5348;font-weight:600}
