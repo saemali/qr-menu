@@ -1,6 +1,6 @@
 # QR Menu (MVP)
 
-Static GitHub Pages menus for small eateries. Brief: `/workspace/earn/org/research/brief-qr-menu.md`.
+Static GitHub Pages menus for small eateries.
 
 ## Layout
 - `menu.template.json` — schema to copy per client
@@ -14,4 +14,3 @@ Open `tiffin-garden/index.html` via a static server (fetch needs HTTP), e.g. `py
 ## Regenerate QR
 `python3 tools/build_qr.py tiffin-garden`
 
-Do not push until Earn says so.
