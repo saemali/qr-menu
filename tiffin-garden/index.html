@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Tiffin Garden · QR Menu</title>
   <meta name="description" content="Sample QR menu for Tiffin Garden — fictional demo.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
@@ -15,6 +17,9 @@
   </header>
   <div class="meta" id="meta"></div>
   <main>
+    <noscript>
+      <p>JavaScript is off. Open the menu data directly: <a href="menu.json">menu.json</a>.</p>
+    </noscript>
     <p id="status" role="status">Loading menu…</p>
     <div id="menu"></div>
   </main>

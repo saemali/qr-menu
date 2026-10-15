@@ -17,3 +17,6 @@ main{max-width:640px;margin:0 auto;padding:.75rem 1rem 2.5rem}
 .note{margin-top:1.5rem;padding:.75rem 1rem;background:#fff;border:1px solid var(--line);border-radius:8px;font-size:.9rem;color:var(--mut)}
 footer{text-align:center;padding:1rem;font-size:.8rem;color:var(--mut)}
 .legend{display:flex;gap:1rem;flex-wrap:wrap;font-size:.85rem;color:var(--mut);padding:.5rem 0 0}
+
+.map-link{display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:44px;padding:.25rem .5rem;vertical-align:middle}
+.mark{flex-shrink:0}

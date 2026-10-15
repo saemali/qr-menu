@@ -1,1 +1,5 @@
 .DS_Store
+tools/
+README.md
+QC*.md
+*QC*.md

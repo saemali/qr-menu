@@ -25,7 +25,7 @@
     },
     {
       "name": "Meals",
-      "name_local": "मील",
+      "name_local": "भोजन",
       "items": [
         { "name": "Mini meals", "price": 150, "mark": "veg", "desc": "Rice, sambar, rasam, poriyal, curd" },
         { "name": "Curd rice", "price": 80, "mark": "veg", "desc": "" },
