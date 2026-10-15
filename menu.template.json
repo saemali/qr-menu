@@ -1,0 +1,24 @@
+{
+  "$schema_note": "Copy this file to <client>/menu.json and fill in. Prices in INR. mark: veg | nonveg | egg.",
+  "id": "client-slug",
+  "name": "Restaurant Name",
+  "name_local": "स्थानीय नाम (optional)",
+  "tagline": "Short line under the name",
+  "phone": "",
+  "email": "saemstudio@mail.grokbot.com",
+  "address": "Area, City",
+  "maps_url": "https://maps.google.com/",
+  "hours": "Mon–Sun 8:00 am – 10:00 pm",
+  "currency": "₹",
+  "languages": ["en"],
+  "note": "Prices may change. Ask staff for today's specials.",
+  "categories": [
+    {
+      "name": "Category",
+      "name_local": "",
+      "items": [
+        { "name": "Item", "name_local": "", "price": 0, "mark": "veg", "desc": "" }
+      ]
+    }
+  ]
+}
