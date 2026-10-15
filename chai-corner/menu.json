@@ -9,36 +9,90 @@
   "maps_url": "https://maps.google.com/?q=Koregaon+Park+Pune",
   "hours": "Mon–Sun 8:00 am – 11:00 pm",
   "currency": "₹",
-  "languages": ["en", "hi"],
+  "languages": [
+    "en",
+    "hi"
+  ],
   "note": "All names and prices are fictional sample data for the QR-menu demo. Not a real café. Edits: saemstudio@mail.grokbot.com",
   "categories": [
     {
       "name": "Chai & coffee",
       "name_local": "चाय और कॉफ़ी",
       "items": [
-        { "name": "Masala chai", "price": 30, "mark": "veg", "desc": "" },
-        { "name": "Adrak chai", "price": 35, "mark": "veg", "desc": "" },
-        { "name": "Cold coffee", "price": 90, "mark": "veg", "desc": "" },
-        { "name": "Filter coffee", "price": 50, "mark": "veg", "desc": "" }
+        {
+          "name": "Masala chai",
+          "price": 30,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Adrak chai",
+          "price": 35,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Cold coffee",
+          "price": 90,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Filter coffee",
+          "price": 50,
+          "mark": "veg",
+          "desc": ""
+        }
       ]
     },
     {
       "name": "Snacks",
       "name_local": "नाश्ता",
       "items": [
-        { "name": "Samosa (2)", "price": 40, "mark": "veg", "desc": "" },
-        { "name": "Veg puff", "price": 35, "mark": "veg", "desc": "" },
-        { "name": "Egg puff", "price": 45, "mark": "egg", "desc": "" },
-        { "name": "Maggi", "price": 60, "mark": "veg", "desc": "Butter optional" }
+        {
+          "name": "Samosa (2)",
+          "price": 40,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Veg puff",
+          "price": 35,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Egg puff",
+          "price": 45,
+          "mark": "egg",
+          "desc": ""
+        },
+        {
+          "name": "Maggi",
+          "price": 60,
+          "mark": "veg",
+          "desc": "Butter optional"
+        }
       ]
     },
     {
       "name": "Sweets",
       "name_local": "मिठाई",
       "items": [
-        { "name": "Soft serve cone", "price": 70, "mark": "veg", "desc": "" },
-        { "name": "Brownie", "price": 80, "mark": "egg", "desc": "" }
+        {
+          "name": "Soft serve cone",
+          "price": 70,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Brownie",
+          "price": 80,
+          "mark": "egg",
+          "desc": ""
+        }
       ]
     }
-  ]
+  ],
+  "demo": true
 }

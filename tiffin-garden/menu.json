@@ -9,37 +9,97 @@
   "maps_url": "https://maps.google.com/?q=Indiranagar+Bengaluru",
   "hours": "Tue–Sun 7:30 am – 10:30 pm · Closed Monday",
   "currency": "₹",
-  "languages": ["en", "hi"],
+  "languages": [
+    "en",
+    "hi"
+  ],
   "note": "All names and prices are fictional sample data for the QR-menu demo. Not a real restaurant. Edits: saemstudio@mail.grokbot.com",
   "categories": [
     {
       "name": "Tiffin",
       "name_local": "नाश्ता",
       "items": [
-        { "name": "Idli (2) with sambar & chutney", "name_local": "", "price": 60, "mark": "veg", "desc": "" },
-        { "name": "Medu vada (2)", "price": 70, "mark": "veg", "desc": "" },
-        { "name": "Masala dosa", "price": 110, "mark": "veg", "desc": "Potato filling, coconut chutney" },
-        { "name": "Rava dosa", "price": 120, "mark": "veg", "desc": "" },
-        { "name": "Pongal", "price": 90, "mark": "veg", "desc": "" }
+        {
+          "name": "Idli (2) with sambar & chutney",
+          "name_local": "",
+          "price": 60,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Medu vada (2)",
+          "price": 70,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Masala dosa",
+          "price": 110,
+          "mark": "veg",
+          "desc": "Potato filling, coconut chutney"
+        },
+        {
+          "name": "Rava dosa",
+          "price": 120,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Pongal",
+          "price": 90,
+          "mark": "veg",
+          "desc": ""
+        }
       ]
     },
     {
       "name": "Meals",
       "name_local": "भोजन",
       "items": [
-        { "name": "Mini meals", "price": 150, "mark": "veg", "desc": "Rice, sambar, rasam, poriyal, curd" },
-        { "name": "Curd rice", "price": 80, "mark": "veg", "desc": "" },
-        { "name": "Lemon rice", "price": 85, "mark": "veg", "desc": "" }
+        {
+          "name": "Mini meals",
+          "price": 150,
+          "mark": "veg",
+          "desc": "Rice, sambar, rasam, poriyal, curd"
+        },
+        {
+          "name": "Curd rice",
+          "price": 80,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Lemon rice",
+          "price": 85,
+          "mark": "veg",
+          "desc": ""
+        }
       ]
     },
     {
       "name": "Drinks",
       "name_local": "पेय",
       "items": [
-        { "name": "Filter coffee", "price": 40, "mark": "veg", "desc": "" },
-        { "name": "Fresh lime soda", "price": 50, "mark": "veg", "desc": "" },
-        { "name": "Buttermilk", "price": 35, "mark": "veg", "desc": "" }
+        {
+          "name": "Filter coffee",
+          "price": 40,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Fresh lime soda",
+          "price": 50,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Buttermilk",
+          "price": 35,
+          "mark": "veg",
+          "desc": ""
+        }
       ]
     }
-  ]
+  ],
+  "demo": true
 }

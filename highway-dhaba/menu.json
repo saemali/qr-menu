@@ -9,36 +9,90 @@
   "maps_url": "https://maps.google.com/?q=Karnal+Haryana",
   "hours": "Daily 7:00 am – 11:30 pm",
   "currency": "₹",
-  "languages": ["en", "hi"],
+  "languages": [
+    "en",
+    "hi"
+  ],
   "note": "All names and prices are fictional sample data for the QR-menu demo. Not a real dhaba. Edits: saemstudio@mail.grokbot.com",
   "categories": [
     {
       "name": "Thalis",
       "name_local": "थाली",
       "items": [
-        { "name": "Veg thali", "price": 180, "mark": "veg", "desc": "Dal, sabzi, roti (4), rice, salad, sweet" },
-        { "name": "Special thali", "price": 250, "mark": "veg", "desc": "Paneer, dal makhani, roti, rice, raita" }
+        {
+          "name": "Veg thali",
+          "price": 180,
+          "mark": "veg",
+          "desc": "Dal, sabzi, roti (4), rice, salad, sweet"
+        },
+        {
+          "name": "Special thali",
+          "price": 250,
+          "mark": "veg",
+          "desc": "Paneer, dal makhani, roti, rice, raita"
+        }
       ]
     },
     {
       "name": "Tandoor & mains",
       "name_local": "तंदूर",
       "items": [
-        { "name": "Butter chicken", "price": 280, "mark": "nonveg", "desc": "Half portion" },
-        { "name": "Paneer butter masala", "price": 220, "mark": "veg", "desc": "" },
-        { "name": "Dal tadka", "price": 140, "mark": "veg", "desc": "" },
-        { "name": "Tandoori roti", "price": 20, "mark": "veg", "desc": "" },
-        { "name": "Butter naan", "price": 40, "mark": "veg", "desc": "" }
+        {
+          "name": "Butter chicken",
+          "price": 280,
+          "mark": "nonveg",
+          "desc": "Half portion"
+        },
+        {
+          "name": "Paneer butter masala",
+          "price": 220,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Dal tadka",
+          "price": 140,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Tandoori roti",
+          "price": 20,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Butter naan",
+          "price": 40,
+          "mark": "veg",
+          "desc": ""
+        }
       ]
     },
     {
       "name": "Drinks",
       "name_local": "पेय",
       "items": [
-        { "name": "Lassi (sweet)", "price": 60, "mark": "veg", "desc": "" },
-        { "name": "Chaas", "price": 40, "mark": "veg", "desc": "" },
-        { "name": "Chai", "price": 20, "mark": "veg", "desc": "" }
+        {
+          "name": "Lassi (sweet)",
+          "price": 60,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Chaas",
+          "price": 40,
+          "mark": "veg",
+          "desc": ""
+        },
+        {
+          "name": "Chai",
+          "price": 20,
+          "mark": "veg",
+          "desc": ""
+        }
       ]
     }
-  ]
+  ],
+  "demo": true
 }
